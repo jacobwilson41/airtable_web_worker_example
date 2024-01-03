@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2018",
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react",
+        "lib": ["ES2021", "WebWorker"]
+    },
+    "exclude": ["node_modules"]
+}
